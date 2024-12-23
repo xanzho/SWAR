@@ -38,13 +38,11 @@ module.exports = {
 
   nodes: [
     {
-       {
   "identifier": "Koi Node V4",
   "password": "prplmoe.me",
   "host": "lavav4.prplmoe.me",
   "port": 1118,
   "secure": false
-}
     },
  ]
 }
