@@ -10,7 +10,7 @@
     "musicard": "^2.0.5",
     "express": "^4.19.2",
     "node-fetch": "^2.7.0",
-    "riffy": "^1.0.3",
+    "riffy": "^1.0.7",
     "songcard": "^1.2.13"
   },
   "scripts": {
