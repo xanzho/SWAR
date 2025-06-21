@@ -4,7 +4,7 @@
   "description": "Music Bot",
   "main": "index.js",
   "dependencies": {
-    "discord.js": "^14.15.1",
+    "discord.js": "^14.20.0",
     "dotenv": "^16.4.5",
     "erela.js": "^2.4.0",
     "musicard": "^2.0.5",
