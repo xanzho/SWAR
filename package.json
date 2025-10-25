@@ -11,7 +11,7 @@
     "express": "^4.19.2",
     "node-fetch": "^2.7.0",
     "riffy": "^1.0.3",
-    "songcard": "^1.2.13"
+    "songcard": "^1.3.7"
   },
   "scripts": {
     "start": "node index.js"
